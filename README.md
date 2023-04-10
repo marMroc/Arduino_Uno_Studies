@@ -16,7 +16,7 @@
 | Firmware       |Objetivo			|Componentes utilizados			|Desafios			 |Aprendizados|	
 |----------------|--------------|---------------------------|--------------|------------|
 |[distancia_sensor](https://github.com/marMroc/Arduino_Uno_Studies/tree/main/distancia_sensor) |Objetivo			|Componentes utilizados			|Desafios			 |Aprendizados|
-|[led_botao](https://github.com/marMroc/Arduino_Uno_Studies/tree/main/led_botao)|Objetivo			|Componentes utilizados			|Desafios			 |Aprendizados|	
+|[led_botao](https://github.com/marMroc/Arduino_Uno_Studies/tree/main/led_botao)|Realizar o acionamento de leds a partir de botões		|Botão; Leds			|Montagem do circuito; Realização da programação		 |Utilização da linguagem C++|	
 |[piscar_leds](https://github.com/marMroc/Arduino_Uno_Studies/tree/main/piscar_leds) |Objetivo			|Componentes utilizados			|Desafios			 |Aprendizados|	
 |[servomotor](https://github.com/marMroc/Arduino_Uno_Studies/tree/main/servomotor)|Objetivo			|Componentes utilizados			|Desafios			 |Aprendizados|	
 |[semaforo](https://github.com/marMroc/Arduino_Uno_Studies/tree/main/semaforo)      | Objetivo			|Componentes utilizados			|Desafios			 |Aprendizados|	
