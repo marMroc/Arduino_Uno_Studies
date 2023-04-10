@@ -15,8 +15,7 @@
 
 | Firmware       |Objetivo			|Componentes utilizados			|Desafios			 |Aprendizados|	
 |----------------|--------------|---------------------------|--------------|------------|
-
-|[distancia_sensor](https://github.com/marMroc/Arduino_Uno_Studies/tree/main/distancia_sensor) |Objetivo			|Componentes utilizados			|Desafios			 |Aprendizados|	
+|[distancia_sensor](https://github.com/marMroc/Arduino_Uno_Studies/tree/main/distancia_sensor) |Objetivo			|Componentes utilizados			|Desafios			 |Aprendizados|
 |[led_botao](https://github.com/marMroc/Arduino_Uno_Studies/tree/main/led_botao)|Objetivo			|Componentes utilizados			|Desafios			 |Aprendizados|	
 |[piscar_leds](https://github.com/marMroc/Arduino_Uno_Studies/tree/main/piscar_leds) |Objetivo			|Componentes utilizados			|Desafios			 |Aprendizados|	
 |[servomotor](https://github.com/marMroc/Arduino_Uno_Studies/tree/main/servomotor)|Objetivo			|Componentes utilizados			|Desafios			 |Aprendizados|	
