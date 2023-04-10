@@ -17,7 +17,7 @@
 |----------------|--------------|---------------------------|--------------|------------|
 |[distancia_sensor](https://github.com/marMroc/Arduino_Uno_Studies/tree/main/distancia_sensor) |Objetivo			|Componentes utilizados			|Desafios			 |Aprendizados|
 |[led_botao](https://github.com/marMroc/Arduino_Uno_Studies/tree/main/led_botao)|Realizar o acionamento de leds a partir de botões		|Botão; Leds			|Montagem do circuito; sintaxe em C++	 |Acionamento e desacionamento de componentes, contagens de tempo|	
-|[piscar_leds](https://github.com/marMroc/Arduino_Uno_Studies/tree/main/piscar_leds) |Piscar dois leds de forma alternada		| Montagem do circuito; sintaxe em c++ |	 |Acionamento e desacionamento de componentes, contagens de tempo|	
+|[piscar_leds](https://github.com/marMroc/Arduino_Uno_Studies/tree/main/piscar_leds) |Piscar dois leds de forma alternada		| Leds|Montagem do circuito; sintaxe em c++ |	 |Acionamento e desacionamento de componentes, contagens de tempo|	
 |[servomotor](https://github.com/marMroc/Arduino_Uno_Studies/tree/main/servomotor)|Acionar um servomotor a partir da detecção da presença |Servomotor; Sensor Ultrassonico|Montagem do circuito; sintaxe c++ |Acionamento e desacionamento de componentes, contagens de tempo|	
 |[semaforo](https://github.com/marMroc/Arduino_Uno_Studies/tree/main/semaforo)      |Automatizar um semáforo de rua | 3 leds	|Montagem do circuito; sintaxe em c++			 |Acionamento e desacionamento de componentes, contagens de tempo, interrupções|	
 
